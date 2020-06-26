@@ -1,4 +1,4 @@
-# PROP-practica-compresor 19-20
+# PROP-compresor 19-20
 
 ## Integrantes:
 - Kenny Alejandro
