@@ -30,5 +30,5 @@
     En ningun caso se ha de modificar manualmente dicho fichero.
 
 ### Documentación del codigo
-La documentacion del codigo es JAVADOC, para poder visualizarla se ha de descarga
-la carpeta Javadoc y hacer abrir el docuemnto index.html con un navegador.
+	La documentacion del codigo es JAVADOC, para poder visualizarla se ha de descarga
+	la carpeta Javadoc y hacer abrir el docuemnto index.html con un navegador.
